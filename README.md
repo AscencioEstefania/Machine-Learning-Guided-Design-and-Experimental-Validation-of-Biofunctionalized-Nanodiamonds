@@ -18,3 +18,10 @@ j Ikerbasque, Basque Foundation for Science, 48013 Bilbao, Spain
 
 # Abstract
 The rational design of biofunctionalized nanodiamonds remains challenging due to the vast combinatorial space arising from nanodiamond core properties and surface functionalization strategies. Here, we introduce ND.PTML, a perturbation-theory-based machine learning framework developed to guide the selection and prioritization of functionalized nanodiamond systems using descriptors of both the nanodiamond core and functionalizing agents. A curated dataset of 426 experimentally reported nanosystems was used to train interpretable classification models. The optimized Decision Tree achieved the best predictive performance (training: Sp = 95.1%, Sn = 71.6%; validation: Sp = 78.1%, Sn = 71.4%) with AUROC values above 0.80, indicating robust classification capability. Model-guided screening generated 103 virtual configurations and supported the experimental synthesis of six representative nanosystems incorporating synthetic linkers and plant-derived extracts. Surface functionalization was confirmed by FTIR, Raman, and XPS analyses, while DLS and ζ-potential measurements demonstrated improved colloidal stability relative to pristine nanodiamonds. Optoelectronic and cytotoxicity assays validated predicted performance trends. These results establish an experimentally validated machine-learning-assisted materials-by-design strategy that reduces empirical trial-and-error and enables interface-engineered functional nanomaterials.
+
+# Keywords
+Machine Learning; Nanodiamonds; Surface Functionalization; Rational Design; AI-based nanomaterials; Biological Applications.
+
+
+
+
