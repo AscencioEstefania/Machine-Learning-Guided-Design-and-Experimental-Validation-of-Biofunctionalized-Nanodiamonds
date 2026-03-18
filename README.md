@@ -15,6 +15,9 @@ The rational design of biofunctionalized nanodiamonds remains challenging due to
 # Keywords
 Machine Learning; Nanodiamonds; Surface Functionalization; Rational Design; AI-based nanomaterials; Biological Applications.
 
+# Publication
+Materials & Design (2026) Just accepted.
+https://www.sciencedirect.com/journal/materials-and-design
 
 
 
