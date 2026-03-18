@@ -11,7 +11,7 @@ Deyani Nocedo-Mena 1,2*, Estefania Ascencio 2,3, Shan He 2,3, Oxana V. Kharissov
 
 # Abstract
 
-# Intro: 
+# Intro
 The rational design of biofunctionalized nanodiamonds remains challenging due to the vast combinatorial space arising from nanodiamond core properties and surface functionalization strategies. 
 
 # Model
